@@ -36,9 +36,16 @@
 #define ansonsten } else
 
 #define waehrend while (
+#define fortfahren continue;
+#define brechen break;
     
 #define fuer for (
 #define mache ) {
+    
+#define wechsel switch (
+#define zu ) {
+#define voreinstellung default
+#define fall case
     
 #define drucken print
 #define druckenf printf
