@@ -18,10 +18,11 @@ ganzzahl hauptfunktion oeffnen
         druckenf("Hallo aus der Für-Schleife. Countdown: %d \n", j) semikolon
     schliessen
     
-    wechsel 2 zu 
-        fall 1: druckenf("Die Zahl ist eins\n") semikolon brechen
-        fall 2: druckenf("Die Zahl ist zwei\n") semikolon brechen
-        fall 3: druckenf("Die Zahl ist drei\n") semikolon brechen
+    ganzzahl wechsler ist (wahr fragezeichen 2 doppelpunkt 3) semikolon
+    wechsel wechsler zu 
+        fall 1 doppelpunkt druckenf("Die Zahl ist eins\n") semikolon brechen
+        fall 2 doppelpunkt druckenf("Die Zahl ist zwei\n") semikolon brechen
+        fall 3 doppelpunkt druckenf("Die Zahl ist drei\n") semikolon brechen
         voreinstellung: druckenf("Die Zahl wird nicht erkannt\n") semikolon brechen
     schliessen
     

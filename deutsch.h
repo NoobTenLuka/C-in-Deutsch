@@ -53,6 +53,9 @@
 #define wahr true
 #define falsch false
 
+#define fragezeichen ?
+#define doppelpunkt :
+
 #define semikolon ;
 #define zurueckgeben return
     
