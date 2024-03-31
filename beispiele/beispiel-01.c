@@ -5,7 +5,7 @@ ganzzahl hauptfunktion oeffnen
     wenn wahr dann
         druckenf("Hallo Welt!\n") semikolon
     ansonsten wenn falsch dann 
-        druckenf("Das wird nie ausgeführt.\n") semikolon
+        druckenf("Das wird nie ausgefuehrt.\n") semikolon
     schliessen
     
     ganzzahl i ist 0;
@@ -15,7 +15,7 @@ ganzzahl hauptfunktion oeffnen
     schliessen
     
     fuer ganzzahl j ist 3 semikolon j groesser 0 semikolon j minusminus mache
-        druckenf("Hallo aus der Für-Schleife. Countdown: %d \n", j) semikolon
+        druckenf("Hallo aus der Fuer-Schleife. Runterzaehler: %d \n", j) semikolon
     schliessen
     
     ganzzahl wechsler ist (wahr fragezeichen 2 doppelpunkt 3) semikolon
